@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @UttankKaul
-- 👀 I’m interested in Game Devlopememt,Game Design
+- 👀 I’m interested in Game Devlopement,Game Design
 - 🌱 I’m currently learning 3D Modelling 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
